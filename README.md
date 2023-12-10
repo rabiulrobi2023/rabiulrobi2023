@@ -24,7 +24,7 @@
 <br>
 <br>
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/3-stats.svg)
+
 
 
 
